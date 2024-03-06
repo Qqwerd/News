@@ -1,0 +1,4 @@
+2022-01-11 23:56:45,878 ERROR exception Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+2022-01-12 00:03:43,530 WARNING log Forbidden (CSRF token missing.): /news/242/delete
+2022-01-12 00:05:17,428 WARNING log Forbidden (CSRF token missing.): /news/242/delete
+2022-01-12 00:05:20,969 WARNING log Forbidden (CSRF token missing.): /news/242/delete
